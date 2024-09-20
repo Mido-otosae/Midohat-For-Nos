@@ -1,0 +1,261 @@
+{
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "6ab3c78d41f6e66fa02cd79adf178aae",
+				"Address" : "6xkFuWE3b_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "85e5e97580a3a09a837a6f4d9842e4d8",
+				"Address" : "6xkFuWE3b_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "bbdbdb1027061c758e4f903bcc14dd42",
+				"Address" : "6xkFuWE3b_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "明部青菜hat",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "038487ab1e0a5b72622bc97f1a0cef6d",
+				"Address" : "ZBKlauMz_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "84c781d0ac959f91a87300f4f879a319",
+				"Address" : "ZBKlauMz_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbFlip" : {
+				"Hash" : "84c781d0ac959f91a87300f4f879a319",
+				"Address" : "ZBKlauMz_ClimbFlip.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "84c781d0ac959f91a87300f4f879a319",
+				"Address" : "ZBKlauMz_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "葵誠歩hat",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "5a6af3a3463c1f4d3d0c3325bdee4738",
+				"Address" : "TqGmemry_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d9f5d98e5e3c67cc0b1383b86ea461f1",
+				"Address" : "TqGmemry_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbFlip" : {
+				"Hash" : "d9f5d98e5e3c67cc0b1383b86ea461f1",
+				"Address" : "TqGmemry_ClimbFlip.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "d9f5d98e5e3c67cc0b1383b86ea461f1",
+				"Address" : "TqGmemry_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : True,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "水戸音冴hat",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "2014fcdbcc5368e96838cb4bebef53ba",
+				"Address" : "U4WvV9zrc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "a89bb1ac0f8db5fd1d0843c26acd8cb1",
+				"Address" : "U4WvV9zrc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "宇佐蔵美hat",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "c62ef4f3391a0a2beeb55d1d50c46425",
+				"Address" : "Hciu8C3G_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "f2239af9a2b83560dff76442573c1ee8",
+				"Address" : "Hciu8C3G_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "金髪兄さんhat",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "62322c7b55b95fb424946bab851248f3",
+				"Address" : "qiFPyLK_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "c5f7f49404e31366f5405c1485b9aa10",
+				"Address" : "qiFPyLK_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "c5f7f49404e31366f5405c1485b9aa10",
+				"Address" : "qiFPyLK_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"ExitVent" : {
+				"Hash" : "c5f7f49404e31366f5405c1485b9aa10",
+				"Address" : "qiFPyLK_ExitVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : True,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "デカバンバスビス_Ver\.M",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "f3f58115f165521debdf2b7c1f8df1d3",
+				"Address" : "1BeSO5xM_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "2a4771b8151fa24d240085b02abde292",
+				"Address" : "1BeSO5xM_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "2a4771b8151fa24d240085b02abde292",
+				"Address" : "1BeSO5xM_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"ExitVent" : {
+				"Hash" : "2a4771b8151fa24d240085b02abde292",
+				"Address" : "1BeSO5xM_ExitVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ミニバスビス_Ver\.M",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "7873e1f3afe8b71fbcdebbe368eef6d5",
+				"Address" : "9dznCP2pc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "66773cb83051e41c982f60fe1f2ad067",
+				"Address" : "9dznCP2pc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"FPS" : 1,
+			"Name" : "ショットケーキ",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "0658896ebb2735f4f5b904f938ca3e38",
+				"Address" : "qc4uAVJrc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "6b03505be39220978b266f66bf7b6bca",
+				"Address" : "qc4uAVJrc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"FPS" : 1,
+			"Name" : "スイカVer\.M",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "16da2b7c50511faa1acad93fd49d8431",
+				"Address" : "RIGbhWmJb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "77eb451922b39d3bb565ac530595b88c",
+				"Address" : "RIGbhWmJb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"FPS" : 1,
+			"Name" : "PカラースイカVer\.M",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		}
+	],
+	"Visors" : [
+	],
+	"Nameplates" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "3",
+			"Format" : "midohat",
+			"Priority" : 1
+		}
+	]
+}
