@@ -281,6 +281,48 @@
 			"Name" : "明部青菜　冬Ver",
 			"Author" : "みどんぐあす",
 			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "95ccfa9b5077dff58c493807ff3abeb8",
+				"Address" : "VXa4E1Ggb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "7c55c495fa5dc3ea55e8ad84522c1963",
+				"Address" : "VXa4E1Ggb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "デカ食パン_Ver\.M",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "bdcc08999780ab2fae7234a7f2bbfb6d",
+				"Address" : "PYWIA4lxc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "99c5a3825a2397e830147accc6195959",
+				"Address" : "PYWIA4lxc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "デカコゲ食パン_Ver\.M",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
 		}
 	],
 	"Visors" : [
