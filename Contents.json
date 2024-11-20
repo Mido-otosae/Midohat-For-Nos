@@ -284,7 +284,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "95ccfa9b5077dff58c493807ff3abeb8",
+				"Hash" : "73820c4c6b1a034766fc3ef4da1ad4f3",
 				"Address" : "VXa4E1Ggb_Main.png",
 				"ExIsFront" : False
 			},
@@ -305,7 +305,7 @@
 		},
 		{
 			"Main" : {
-				"Hash" : "bdcc08999780ab2fae7234a7f2bbfb6d",
+				"Hash" : "72cb47a0c5ba1eb04d2fe677076cd171",
 				"Address" : "PYWIA4lxc_Main.png",
 				"ExIsFront" : False
 			},
@@ -317,7 +317,7 @@
 			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
-			"IsSkinny" : False,
+			"IsSkinny" : True,
 			"SeekerCostume" : True,
 			"FPS" : 1,
 			"Name" : "デカコゲ食パン_Ver\.M",
