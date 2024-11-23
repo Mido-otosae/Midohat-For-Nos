@@ -323,6 +323,27 @@
 			"Name" : "デカコゲ食パン_Ver\.M",
 			"Author" : "みどんぐあす",
 			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "134bb3cd6615a40f77253ff6ac0debff",
+				"Address" : "Bu8GgLsVb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "e766145d7f570b62a22950483a63b17d",
+				"Address" : "Bu8GgLsVb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Pカラーデカ食パン",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
 		}
 	],
 	"Visors" : [
