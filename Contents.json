@@ -344,6 +344,221 @@
 			"Name" : "Pカラーデカ食パン",
 			"Author" : "みどんぐあす",
 			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "070e3ae2258cbf3c3ad1094017e2c982",
+				"Address" : "OQ0Q5i9w_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "2c4ad3b6376c6dd6a2c0f86b8c470f2b",
+				"Address" : "OQ0Q5i9w_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ドーナツちゃうんA__Ver\.M",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "9c8308fbb5ec9b10eaec84bb34dfae68",
+				"Address" : "sLazd0H3b_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "11b93b98d181e3d2b5e058377b8de233",
+				"Address" : "sLazd0H3b_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ドーナツちゃうんB_Ver\.M",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "31472d2b71ca41893aaf88544f1d276f",
+				"Address" : "ZUk3liSV_Main.png",
+				"ExIsFront" : False
+			},
+			"Flip" : {
+				"Hash" : "682ddc2c296c1d84ab70969646b52895",
+				"Address" : "ZUk3liSV_Flip.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "e9095c81ee166ff591330a3f41bf9e3d",
+				"Address" : "ZUk3liSV_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ドーナツちゃうんC_Ver\.M",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "85ccd2495c60100652532165b9c7b4cd",
+				"Address" : "tdbSbKndc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "11b93b98d181e3d2b5e058377b8de233",
+				"Address" : "tdbSbKndc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ドーナツちゃうんD_Ver\.M",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "6aa2c9209d4fb77c57effccdc4618da5",
+				"Address" : "Ay7GQZ23_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "a34f69f94aa4a4bc3de72e9ba373aa6a",
+				"Address" : "Ay7GQZ23_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ドーナツちゃうんE_Ver\.M",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "8a029d91e22c86094720ce24764b7849",
+				"Address" : "4QXvGrylc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "94d820997ff5a214d1eb3404f8e64c71",
+				"Address" : "4QXvGrylc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ドーナツちゃうんF_Ver\.M",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "7ac7dad3da32a3655470fe2d95cd134e",
+				"Address" : "bcUklHdcb_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "94d820997ff5a214d1eb3404f8e64c71",
+				"Address" : "bcUklHdcb_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ドーナツちゃうんG_Ver\.M",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "2a63294db17893e01cadc2a43f2dbb81",
+				"Address" : "FuK9a9Itc_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "94d820997ff5a214d1eb3404f8e64c71",
+				"Address" : "FuK9a9Itc_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ドーナツちゃうんH_Ver\.M",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "a0b8b78ebda5c1a91d3704bd3659dde7",
+				"Address" : "abiew2Uob_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "660d1242a37c265d78d3db500a7be8b2",
+				"Address" : "abiew2Uob_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Pカラー_ドーナツちゃうんA",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
+		},
+		{
+			"Main" : {
+				"Hash" : "8c7ae10823af5bd8cf8d2d1a57e35c4a",
+				"Address" : "bbiew2Uob_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "b053bd097b69d84328c1f2b81535df08",
+				"Address" : "bbiew2Uob_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : True,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "Pカラー_ドーナツちゃうんB",
+			"Author" : "みどんぐあす",
+			"Package" : "3"
 		}
 	],
 	"Visors" : [
