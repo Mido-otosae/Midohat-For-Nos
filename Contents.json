@@ -25,7 +25,9 @@
 			"FPS" : 1,
 			"Name" : "明部青菜hat",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -56,7 +58,9 @@
 			"FPS" : 1,
 			"Name" : "葵誠歩hat",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -87,7 +91,9 @@
 			"FPS" : 1,
 			"Name" : "水戸音冴hat",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -108,7 +114,9 @@
 			"FPS" : 1,
 			"Name" : "宇佐蔵美hat",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -129,7 +137,9 @@
 			"FPS" : 1,
 			"Name" : "金髪兄さんhat",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -160,7 +170,9 @@
 			"FPS" : 1,
 			"Name" : "デカバンバスビス_Ver\.M",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -191,7 +203,9 @@
 			"FPS" : 1,
 			"Name" : "ミニバスビス_Ver\.M",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -212,7 +226,9 @@
 			"FPS" : 1,
 			"Name" : "ショットケーキ",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -233,7 +249,9 @@
 			"FPS" : 1,
 			"Name" : "スイカVer\.M",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -254,7 +272,9 @@
 			"FPS" : 1,
 			"Name" : "PカラースイカVer\.M",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -280,7 +300,9 @@
 			"FPS" : 1,
 			"Name" : "明部青菜　冬Ver",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -301,7 +323,9 @@
 			"FPS" : 1,
 			"Name" : "デカ食パン_Ver\.M",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -322,7 +346,9 @@
 			"FPS" : 1,
 			"Name" : "デカコゲ食パン_Ver\.M",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -343,7 +369,9 @@
 			"FPS" : 1,
 			"Name" : "Pカラーデカ食パン",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -364,7 +392,9 @@
 			"FPS" : 1,
 			"Name" : "ドーナツちゃうんA__Ver\.M",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -385,7 +415,9 @@
 			"FPS" : 1,
 			"Name" : "ドーナツちゃうんB_Ver\.M",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -411,7 +443,9 @@
 			"FPS" : 1,
 			"Name" : "ドーナツちゃうんC_Ver\.M",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -432,7 +466,9 @@
 			"FPS" : 1,
 			"Name" : "ドーナツちゃうんD_Ver\.M",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -453,7 +489,9 @@
 			"FPS" : 1,
 			"Name" : "ドーナツちゃうんE_Ver\.M",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -474,7 +512,9 @@
 			"FPS" : 1,
 			"Name" : "ドーナツちゃうんF_Ver\.M",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -495,7 +535,9 @@
 			"FPS" : 1,
 			"Name" : "ドーナツちゃうんG_Ver\.M",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -516,7 +558,9 @@
 			"FPS" : 1,
 			"Name" : "ドーナツちゃうんH_Ver\.M",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -537,7 +581,9 @@
 			"FPS" : 1,
 			"Name" : "Pカラー_ドーナツちゃうんA",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		},
 		{
 			"Main" : {
@@ -558,18 +604,37 @@
 			"FPS" : 1,
 			"Name" : "Pカラー_ドーナツちゃうんB",
 			"Author" : "みどんぐあす",
-			"Package" : "3"
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
 		}
 	],
 	"Visors" : [
 	],
 	"Nameplates" : [
+		{
+			"Plate" : {
+				"Hash" : "d1ade8f6e2955788c10801ec8e90a7ee",
+				"Address" : "VevTgR5I_Plate.png",
+				"ExIsFront" : False
+			},
+			"AdaptiveInFront" : True,
+			"Name" : "みどプレート",
+			"Author" : "みどんぐあす",
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Stamps" : [
 	],
 	"Packages" : [
 		{
 			"Package" : "3",
 			"Format" : "midohat",
-			"Priority" : 1
+			"Priority" : 1,
+			"IsLocalizable" : True
 		}
-	]
+	],
+	"IsLocalizable" : True
 }
