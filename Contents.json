@@ -22,11 +22,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "明部青菜hat",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -55,11 +56,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "葵誠歩hat",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -88,11 +90,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "水戸音冴hat",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -111,11 +114,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "宇佐蔵美hat",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -134,11 +138,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "金髪兄さんhat",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -167,11 +172,12 @@
 			"HideHands" : True,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "デカバンバスビス_Ver\.M",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -200,11 +206,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "ミニバスビス_Ver\.M",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -223,11 +230,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "ショットケーキ",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -246,11 +254,12 @@
 			"HideHands" : False,
 			"IsSkinny" : True,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "スイカVer\.M",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -269,11 +278,12 @@
 			"HideHands" : False,
 			"IsSkinny" : True,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "PカラースイカVer\.M",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -297,11 +307,12 @@
 			"HideHands" : False,
 			"IsSkinny" : False,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "明部青菜　冬Ver",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -320,11 +331,12 @@
 			"HideHands" : False,
 			"IsSkinny" : True,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "デカ食パン_Ver\.M",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -343,11 +355,12 @@
 			"HideHands" : False,
 			"IsSkinny" : True,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "デカコゲ食パン_Ver\.M",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -366,11 +379,12 @@
 			"HideHands" : False,
 			"IsSkinny" : True,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "Pカラーデカ食パン",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -389,11 +403,12 @@
 			"HideHands" : False,
 			"IsSkinny" : True,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "ドーナツちゃうんA__Ver\.M",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -412,11 +427,12 @@
 			"HideHands" : False,
 			"IsSkinny" : True,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "ドーナツちゃうんB_Ver\.M",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -440,11 +456,12 @@
 			"HideHands" : False,
 			"IsSkinny" : True,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "ドーナツちゃうんC_Ver\.M",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -463,11 +480,12 @@
 			"HideHands" : False,
 			"IsSkinny" : True,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "ドーナツちゃうんD_Ver\.M",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -486,11 +504,12 @@
 			"HideHands" : False,
 			"IsSkinny" : True,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "ドーナツちゃうんE_Ver\.M",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -509,11 +528,12 @@
 			"HideHands" : False,
 			"IsSkinny" : True,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "ドーナツちゃうんF_Ver\.M",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -532,11 +552,12 @@
 			"HideHands" : False,
 			"IsSkinny" : True,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "ドーナツちゃうんG_Ver\.M",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -555,11 +576,12 @@
 			"HideHands" : False,
 			"IsSkinny" : True,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "ドーナツちゃうんH_Ver\.M",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -578,11 +600,12 @@
 			"HideHands" : False,
 			"IsSkinny" : True,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "Pカラー_ドーナツちゃうんA",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		},
 		{
@@ -601,11 +624,51 @@
 			"HideHands" : False,
 			"IsSkinny" : True,
 			"SeekerCostume" : True,
-			"FPS" : 1,
+			"LongNeckCostume" : True,
 			"Name" : "Pカラー_ドーナツちゃうんB",
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f084f70a585c4b326b16ed88c199e324",
+				"Address" : "U6UUd4tob_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "627773ef53c50af100de64a7f33cd2f0",
+				"Address" : "U6UUd4tob_Move.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "627773ef53c50af100de64a7f33cd2f0",
+				"Address" : "U6UUd4tob_Climb.png",
+				"ExIsFront" : False
+			},
+			"EnterVent" : {
+				"Hash" : "627773ef53c50af100de64a7f33cd2f0",
+				"Address" : "U6UUd4tob_EnterVent.png",
+				"ExIsFront" : False
+			},
+			"ExitVent" : {
+				"Hash" : "627773ef53c50af100de64a7f33cd2f0",
+				"Address" : "U6UUd4tob_ExitVent.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"LongNeckCostume" : True,
+			"Name" : "こんなところにギフトが",
+			"Author" : "みどんぐあす",
+			"Package" : "3",
+			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
@@ -623,6 +686,7 @@
 			"Author" : "みどんぐあす",
 			"Package" : "3",
 			"IsUnlockable" : False,
+			"FPS" : 1,
 			"IsLocalizable" : True
 		}
 	],
